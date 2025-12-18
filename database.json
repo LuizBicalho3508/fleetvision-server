@@ -1,0 +1,13 @@
+{
+  "config": {
+    "appName": "FleetVision",
+    "theme": {
+      "sidebarBg": "#0f172a",
+      "sidebarActive": "#1e293b",
+      "primaryColor": "#3b82f6",
+      "logoColor": "#3b82f6"
+    }
+  },
+  "tires": [],
+  "clients": []
+}
